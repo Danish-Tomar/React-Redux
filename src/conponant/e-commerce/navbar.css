@@ -1,0 +1,15 @@
+nav{
+    background-color: blueviolet;
+    color: white;
+    font-weight: 2 rem;
+    padding: 8px 20px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 2px gainsboro;
+}
+.cart-layout{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
